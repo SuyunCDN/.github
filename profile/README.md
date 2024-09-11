@@ -1,4 +1,4 @@
-![CDN banner](https://github.com/user-attachments/assets/f4444ea3-7dba-45fa-861f-926d848bb8e0)
+[![CDN banner](https://github.com/user-attachments/assets/f4444ea3-7dba-45fa-861f-926d848bb8e0)](https://ujcdn.com/)
 
 [At 优加CDN](https://ujcdn.com/), our mission is to deliver exceptional web performance and security. We offer a comprehensive suite of services, including advanced CDN acceleration, robust DDoS and CC attack protection, and seamless DNS and SSL/TLS management. Our innovative technology ensures your website benefits from unparalleled speed and reliability, while our integrated platform simplifies management tasks.
 
