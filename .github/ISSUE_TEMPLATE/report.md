@@ -14,9 +14,11 @@ assignees: ''
 
 ## 3. **Date and Time**: 
 [Date and Time of incident or issue, starting from found out time till resolved time]
+- **Start:** `[Date and Time when the issue was found]`
+- **End:** `[Date and Time when the issue was resolved]`
 
 ## 4. **Environment**: 
-- [ ] V2
+- [x] V2
 - [ ] V3
 - [ ] Both
 
@@ -24,7 +26,7 @@ assignees: ''
 [Location or System/Service Affected]
 
 ## 6. **Severity Level**: 
-- [ ] Critical
+- [x] Critical
 - [ ] High
 - [ ] Medium
 - [ ] Low
