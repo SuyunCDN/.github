@@ -7,15 +7,15 @@ assignees: ''
 ---
 
 ## 1. **Title**: 
-[Short description of the incident or issue]
+<!-- [Short description of the incident or issue] -->
 
 ## 2. **Summary**: 
-[Describe the brief summary of the incident or issue]
+<!-- [Describe the brief summary of the incident or issue] -->
 
 ## 3. **Date and Time**: 
-[Date and Time of incident or issue, starting from found out time till resolved time]
-- **Start:** `[Date and Time when the issue was found]`
-- **End:** `[Date and Time when the issue was resolved]`
+<!-- [Date and Time of incident or issue, starting from found out time till resolved time] -->
+- **Start:** ``
+- **End:** ``
 
 ## 4. **Environment**: 
 - [x] V2
@@ -23,7 +23,7 @@ assignees: ''
 - [ ] Both
 
 ## 5. **Impact Area**: 
-[Location or System/Service Affected]
+<!-- [Location or System/Service Affected] -->
 
 ## 6. **Severity Level**: 
 - [x] Critical
@@ -33,10 +33,10 @@ assignees: ''
 - [ ] Lowest
 
 ## 7. **Root Cause**: 
-[The root cause of the incident or issue]
+<!-- [The root cause of the incident or issue] -->
 
 ## 8. **Resolution**: 
-[The applied resolution or workaround. If the workaround is provided, include the plan for permanent resolution based on discussion]
+<!-- [The applied resolution or workaround. If the workaround is provided, include the plan for permanent resolution based on discussion] -->
 
 ## 9. **Prevention**: 
-[Provide prevention measures to avoid a similar incident or issue in the future]
+<!-- [Provide prevention measures to avoid a similar incident or issue in the future] -->
